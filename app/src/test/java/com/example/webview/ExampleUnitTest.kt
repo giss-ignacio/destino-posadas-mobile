@@ -1,4 +1,4 @@
-package com.destinoposadas
+package com.example.webview
 
 import org.junit.Test
 
